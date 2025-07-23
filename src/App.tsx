@@ -128,7 +128,7 @@ function App() {
 
           {/* Mobile Navigation */}
           {mobileMenuOpen && (
-            <div className="md:hidden bg-slate-800 border-t border-slate-700">
+            <div className="md:hidden bg-slate-900 border-t border-slate-700">
               <div className="px-2 pt-2 pb-3 space-y-1">
                 {[
                   { id: 'home', label: 'Home' },
