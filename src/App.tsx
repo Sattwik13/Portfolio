@@ -12,7 +12,7 @@ function App() {
 
   const certificates = [
   {
-    title: "Full Stack Developer",
+    title: "Full Stack Development",
     issuer: "InternShala",
     date: "June 2025",
     link: "https://trainings.internshala.com/s/v/3700262/08429dd3",
