@@ -573,7 +573,7 @@ function App() {
                   Or download my resume for more details
                 </p> */}
                 <a
-                  href="https://drive.google.com/file/d/1t8FVa3oEAT7bix5V0DLkPgATjZigijiM/view?usp=drive_link"
+                  href="https://drive.google.com/file/d/11Myocx3r44FWypL0jUP_DFcd6mYPn7rb/view?usp=drive_link"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center space-x-2 px-6 py-3 bg-gradient-to-r from-blue-600 to-emerald-600 hover:from-blue-700 hover:to-emerald-700 rounded-lg font-medium transition-all duration-300 hover:scale-105 hover:shadow-lg"
