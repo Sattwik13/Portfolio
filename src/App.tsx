@@ -324,7 +324,7 @@ function App() {
                   type: "education"
                 },
                 {
-                  title: "Software Developer Traniee",
+                  title: "Software Developer Trainee",
                   organization: "Internshala",
                   period: "2024 - 2025",
                   description: "Focused on software engineering fundamentals, algorithms, and modern development practices.",
