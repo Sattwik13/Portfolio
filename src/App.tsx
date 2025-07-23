@@ -170,19 +170,19 @@ function App() {
       >
         <h1 className="text-5xl md:text-7xl font-bold mb-6">
           <span className="bg-gradient-to-r from-blue-400 via-purple-500 to-emerald-400 bg-clip-text text-transparent animate-gradient-x bg-[length:200%_200%]">
-            Sattwik Manna
+            Welcome to My Portfolio
           </span>
         </h1>
 
         <TypeAnimation
           sequence={[
-            'Full Stack Developer',
+            'I am a Full-Stack Developer',
+            1000,
+            'Tech Stack',
             1000,
             'React | Next.js | Node.js | Express.js',
             1000,
             'MySQL | MongoDB | Redis | BullMQ',
-            1000,
-            'Javascript | C++ | Java',
             1000,
           ]}
           wrapper="span"
