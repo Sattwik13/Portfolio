@@ -396,8 +396,8 @@ function App() {
     title: "Portfolio Website",
     description: "Modern, responsive portfolio website built with React and modern design principles.",
     tech: ["React", "TypeScript", "Tailwind CSS", "Framer Motion"],
-    github: "#",
-    demo: "#",
+    github: "https://github.com/Sattwik13/Portfolio",
+    demo: "https://sattwik.netlify.app/",
     image: "https://th.bing.com/th/id/OIP.1ffI0Sr4ncOeWbltZ-I2nQHaEK?w=329&h=185&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3"
   },
   {
