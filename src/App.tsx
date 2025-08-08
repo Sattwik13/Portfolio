@@ -370,7 +370,7 @@ function App() {
             {[
   {
     title: "Payment Management System",
-    description: "A comprehensive payment processing application with modern UI and secure backend.",
+    description: "A Node.js-based Payment Management System for handling customers, orders, and transactions with secure encryption. Includes modular controllers, services, and routes for clean, maintainable code.",
     tech: ["React", "Node.js", "MongoDB", "Express.js"],
     github: "https://github.com/Sattwik13/Payment-Management-System",
     demo: "https://github.com/Sattwik13/Payment-Management-System",
@@ -386,7 +386,7 @@ function App() {
   },
   {
     title: "Token Price Interpolator ",
-    description: "Historical Token Price Oracle with Interpolation Engine",
+    description: "Historical Token Price Oracle with Interpolation Engine. A application that provides historical token prices with intelligent interpolation for missing data points.",
     tech: ["nextjs14", "TailwindCSS", "redis", "BullMQ", "mongodb-atlas", "express"],
     github: "https://github.com/Sattwik13/Token-price-interpolator",
     demo: "https://token-price-interpolator.vercel.app/",
@@ -394,7 +394,7 @@ function App() {
   },
   {
     title: "Portfolio Website",
-    description: "Modern, responsive portfolio website built with React and modern design principles.",
+    description: "Modern, responsive and animated portfolio website built with React and modern design principles. Blending design, performance, and real-world functionality.",
     tech: ["React", "TypeScript", "Tailwind CSS", "Framer Motion"],
     github: "https://github.com/Sattwik13/Portfolio",
     demo: "https://sattwik.netlify.app/",
