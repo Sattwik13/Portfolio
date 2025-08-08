@@ -410,7 +410,7 @@ function App() {
   },
   {
     title: "Weather Forecast App ",
-    description: "Modern, responsive portfolio website built with React and modern design principles.",
+    description: " Weather Forecast App built using HTML, Tailwind CSS, and JavaScript. Displays current weather conditions and a 5-day forecast for any searched city.",
     tech: ["html", "TailwindCSS", "javascript", "express"],
     github: "https://github.com/Sattwik13/Weather_Forecast_App",
     demo: "https://weather-forecast-app-sg4m.vercel.app/",
