@@ -382,7 +382,7 @@ function App() {
     tech: ["React", "Tailwind CSS", "ShadCN UI", "Next.js","JavaScript", "Recharts", "Express", "Supabase", "Clerk"],
     github: "https://github.com/Sattwik13/FinIntel",
     demo: "https://finintel-sattwik-mannas-projects.vercel.app/",
-    image: "https://www.thewatchtower.com/assets/images/blog_images/ai-in-finance1727418180.jpg"
+    image: "https://th.bing.com/th/id/OIP.t-7DMloJPkG277s8LqTR7QHaEK?w=302&h=180&c=7&r=0&o=7&cb=ucfimg2&dpr=2&pid=1.7&rm=3&ucfimg=1"
   },
   {
     title: "Token Price Interpolator ",
