@@ -263,7 +263,7 @@ function App() {
                 <div className="grid grid-cols-2 gap-4">
                   {[
                     { name: 'JavaScript', level: 90 },
-                    { name: 'Java', level: 80 },
+                    { name: 'Java', level: 90 },
                     { name: 'C++', level: 80 },
                     { name: 'React', level: 85 },
                     { name: 'Express.js', level: 90 },
@@ -374,7 +374,7 @@ function App() {
     tech: ["React", "Node.js", "MongoDB", "Express.js"],
     github: "https://github.com/Sattwik13/Payment-Management-System",
     demo: "https://github.com/Sattwik13/Payment-Management-System",
-    image: "https://media.istockphoto.com/id/1329913812/photo/banking-icon-concept.jpg?b=1&s=612x612&w=0&k=20&c=fA5JSw3j695h2Ytgq5r12ka4xkI3pb7kGq4uOdEISE0=" // ✅ your hosted image or GitHub raw URL
+    image: "https://moneybackground.com/wp-content/uploads/2024/09/The-Digital-Transformation-Dilemma-How-Banks-Are-Navigating-the-Shift-to-a-Digital-Future.jpg" // ✅ your hosted image or GitHub raw URL
   },
   {
     title: "FinIntel Platform",
